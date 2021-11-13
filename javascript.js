@@ -1,3 +1,5 @@
-function saludar(){
-  alert('HOLA BROTHER!!!!!');
+
+function saludos(){
+  alert('HOLA BROTHERRRRRR');
+
 }
